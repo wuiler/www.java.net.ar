@@ -1,6 +1,8 @@
 ---
-title: 'Aut est manuque terga'
+title: Nuevo
+subtitle: 'Aqui nuevo mensaje'
 color: blue
+truncate: 40
 taxonomy:
     category: Idea
 ---
