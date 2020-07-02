@@ -1,5 +1,5 @@
 ---
-title: Nuevo
+title: Nuevo a ver de GitHub
 subtitle: 'Aqui nuevo mensaje'
 media_order: yin_yang_Symbol.jpg
 image: yin_yang_Symbol.jpg
