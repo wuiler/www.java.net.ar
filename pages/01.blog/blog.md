@@ -1,6 +1,6 @@
 ---
-title: Bienvenidos
-media_order: 'mountain.jpg,Wallpaper-Java-Camino.png'
+title: Home
+media_order: 'Wallpaper-Java-Camino.png,Wallpaper-Java-Duke-01.png'
 hide_git_sync_repo_link: true
 body_classes: 'header-dark header-transparent'
 child_type: item
