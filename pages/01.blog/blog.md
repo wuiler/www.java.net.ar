@@ -1,11 +1,12 @@
 ---
-title: Blog
+title: Bienvenidos
 media_order: 'mountain.jpg,Wallpaper-Java-Camino.png'
 hide_git_sync_repo_link: true
 body_classes: 'header-dark header-transparent'
 child_type: item
 hero_classes: 'text-light title-h1h2 overlay-dark-gradient hero-large parallax'
-blog_url: /blog
+hero_image: Wallpaper-Java-Duke-01.png
+blog_url: /home
 show_sidebar: true
 show_breadcrumbs: true
 show_pagination: true
@@ -21,6 +22,7 @@ content:
 bricklayer_layout: true
 display_post_summary:
     enabled: false
+post_icon: newspaper-o
 feed:
     limit: 10
     description: 'Sample Blog Description'
