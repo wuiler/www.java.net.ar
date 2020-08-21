@@ -1,6 +1,6 @@
 ---
 title: 'Multi-Section Page'
-published: true
+published: false
 hide_git_sync_repo_link: false
 hide_page_title: true
 child_type: section
