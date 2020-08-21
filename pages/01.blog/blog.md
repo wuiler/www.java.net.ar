@@ -34,5 +34,5 @@ modular_content:
 pagination: true
 ---
 
-# My **Open Publishing** Space
-## Create, Share and Collaborate
+# For you **Java** 25 years
+## Write once, run anywhere
