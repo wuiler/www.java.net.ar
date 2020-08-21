@@ -1,6 +1,6 @@
 ---
 title: Search
-published: false
+published: true
 hide_git_sync_repo_link: true
 template: search
 icon: search
