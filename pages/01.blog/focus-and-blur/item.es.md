@@ -1,15 +1,24 @@
 ---
-title: Focus and Blur
-date: 13:34 06/21/2017
-
-hero_classes: text-light title-h1h2 overlay-dark hero-large parallax
-hero_image: unsplash-focus.jpg
-
+title: 'Focus and Blur'
+published: false
+date: '21-06-2017 13:34'
 taxonomy:
-    category: blog
-    tag: [mushroom, photography]
-
-header_image_alt_text: Plant, which blurs into the distance
+    category:
+        - blog
+    tag:
+        - photography
+        - mushroom
+hide_git_sync_repo_link: false
+hero_classes: 'text-light title-h1h2 overlay-dark hero-large parallax'
+hero_image: unsplash-focus.jpg
+header_image_alt_text: 'Plant, which blurs into the distance'
+blog_url: /blog
+show_sidebar: true
+show_breadcrumbs: true
+show_pagination: true
+hide_from_post_list: false
+feed:
+    limit: 10
 ---
 
 Lorem markdownum incessere **hostem coronae** properant. Perque matrem sic

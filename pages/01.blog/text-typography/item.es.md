@@ -1,15 +1,23 @@
 ---
-title: Text & Typography
-date: 13:34 07/19/2017
-
-hero_classes: text-light title-h1h2 overlay-dark hero-large parallax
-hero_image: unsplash-text.jpg
-
+title: 'Text & Typography'
+published: false
+date: '19-07-2017 13:34'
 taxonomy:
-    category: blog
-    tag: [journal]
-
-header_image_alt_text: Metal type
+    category:
+        - blog
+    tag:
+        - journal
+hide_git_sync_repo_link: false
+hero_classes: 'text-light title-h1h2 overlay-dark hero-large parallax'
+hero_image: unsplash-text.jpg
+header_image_alt_text: 'Metal type'
+blog_url: /blog
+show_sidebar: true
+show_breadcrumbs: true
+show_pagination: true
+hide_from_post_list: false
+feed:
+    limit: 10
 ---
 
 The [Quark theme](https://github.com/getgrav/grav-theme-quark) is the new default theme for Grav built with [Spectre.css](https://picturepan2.github.io/spectre/) the lightweight, responsive and modern CSS framework. Spectre provides  basic styles for typography, elements, and a responsive layout system that utilizes best practices and consistent language design.

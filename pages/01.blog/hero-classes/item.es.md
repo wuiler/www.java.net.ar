@@ -1,19 +1,27 @@
 ---
-title: Body & Hero Classes
-date: 14:55 08/11/2017
-author: Tasha Maxwell
-continue_link: true
-
-hero_classes: text-light title-h1h2 overlay-dark-gradient hero-large parallax
-hero_image: unsplash-overcast-mountains.jpg
-
+title: 'Body & Hero Classes'
+published: false
+date: '11-08-2017 14:55'
 taxonomy:
-    category: blog
-    tag: [journal, photography]
-
+    category:
+        - blog
+    tag:
+        - journal
+        - photography
+hide_git_sync_repo_link: false
+hero_classes: 'text-light title-h1h2 overlay-dark-gradient hero-large parallax'
+hero_image: unsplash-overcast-mountains.jpg
 header_image_alt_text: Mountains
+blog_url: /blog
+show_sidebar: true
+show_breadcrumbs: true
+show_pagination: true
+hide_from_post_list: false
+feed:
+    limit: 10
+author: 'Tasha Maxwell'
+continue_link: true
 ---
-
 
 The [Quark theme](https://getgrav.org/downloads/themes) has the ability to allow pages to override some of the default options by letting the user set `body_classes` for any page.  The theme will merge the combination of the defaults with any `body_classes` set. This allows you to easily add hero classes to give your blog post some **bling**.
 
