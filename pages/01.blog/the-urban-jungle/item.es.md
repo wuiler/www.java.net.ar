@@ -1,16 +1,25 @@
 ---
-title: The Urban Jungle
-date: 17:34 07/04/2017
-
-hero_classes: text-light title-h1h2 overlay-dark-gradient hero-large parallax
-hero_image: unsplash-sidney-perry.jpg
-show_sidebar: true
-
+title: 'The Urban Jungle'
+published: false
+date: '04-07-2017 17:34'
 taxonomy:
-    category: blog
-    tag: [travel, photography, city]
-
-header_image_alt_text: Spray painted portrait of Albert Einstein
+    category:
+        - blog
+    tag:
+        - travel
+        - photography
+        - city
+hide_git_sync_repo_link: false
+hero_classes: 'text-light title-h1h2 overlay-dark-gradient hero-large parallax'
+hero_image: unsplash-sidney-perry.jpg
+header_image_alt_text: 'Spray painted portrait of Albert Einstein'
+blog_url: /blog
+show_sidebar: true
+show_breadcrumbs: true
+show_pagination: true
+hide_from_post_list: false
+feed:
+    limit: 10
 ---
 
 Lorem markdownum credas animos nec Phoeboque; de iuris *creverat* et finis ad

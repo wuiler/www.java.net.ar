@@ -7,10 +7,4 @@ visible: false
 position: top
 ---
 
-#### JDK SSS
-
-[AdoptOpenJDK](https://adoptopenjdk.net/)
-
-[OpenJDK](https://openjdk.java.net/)
-
-
+ ##### <i class="fa fa-download fa-2x"></i>  Screen
