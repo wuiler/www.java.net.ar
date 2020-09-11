@@ -22,7 +22,8 @@ continue_link: true
 ---
 
 ![](bienvenidos.gif)
-Queremos brindar un lugar para quienes deseen iniciarse en el mundo Java. Esperamos que sea un viaje interesante para todos y estamos disupuestos a responder cualquier duda y ayudar a quienes lo necesiten.  
+Queremos brindar un lugar para quienes deseen iniciarse en el mundo Java.
+Esperamos que sea un viaje interesante para todos y estamos dispuestos a responder cualquier duda y ayudar a quienes lo necesiten.  
 
 Si desean colaborar nos pueden encontrar vía mail o github. 
 
