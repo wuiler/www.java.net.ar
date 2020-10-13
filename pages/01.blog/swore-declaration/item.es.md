@@ -1,6 +1,5 @@
 ---
 title: 'Declaración Jurada'
-published: true
 date: '09-10-2020 20:56'
 taxonomy:
     category:
@@ -10,7 +9,6 @@ taxonomy:
         - Application
         - Quarkus
 hide_git_sync_repo_link: false
-visible: true
 blog_url: /blog
 show_sidebar: true
 show_breadcrumbs: true
@@ -18,6 +16,8 @@ show_pagination: true
 hide_from_post_list: false
 feed:
     limit: 10
+sharer:
+    enabled: true
 ---
 
 It's all start with a friend that has a squash court's and during covid-19 every people how enters to the club need to sign a swore declaration in paper.  
