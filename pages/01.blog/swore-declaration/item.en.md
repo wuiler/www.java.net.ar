@@ -43,8 +43,8 @@ We could made our own Sworn Declarations.
 Manage the Entity, defining properties and Spaces. Spaces are the places/courts where people stand.  
 
 So the application start growing with some interesting things.  
-The technology using its [ElephantSQL](https://www.elephantsql.com/) to test [Postgres](https://www.postgresql.org/) over the net.  
-This is a classy java web app with RESTEasy/JAX-RS protocol. I said classic because I came from JavaEE with Jboss, so that why.  
+The database technology used is [ElephantSQL](https://www.elephantsql.com/) to test [Postgres](https://www.postgresql.org/) over the net.  
+This is a classy Java Web app with RESTEasy/JAX-RS protocol. I said classic because I came from JavaEE with Jboss, so that why.  
 
 ## Looking Beyond  
 What could I made, make it [Reactive](https://quarkus.io/guides/getting-started-reactive). Quarkus brings reactivness in the all the aspects of the life cycle; in database, backend and front.  
@@ -53,6 +53,7 @@ Make API first.
 A new frontend, maybe add [Svelte](https://svelte.dev/) (you are invited to colaborate) o [https://quasar.dev/](https://quasar.dev/) (how I said, 2Qute to Be Real)  
 Add mail support to connect users.  
 Made Test to verify the functionality of the app.  
+How about to add blockchain to every declaration.
 
 To learn about Quarkus.io visit [https://quarkus.io/](https://quarkus.io/)!  
 
