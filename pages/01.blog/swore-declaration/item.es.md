@@ -16,6 +16,25 @@ show_pagination: true
 hide_from_post_list: false
 feed:
     limit: 10
+twitterenable: false
+twittercardoptions: summary
+articleenabled: false
+musiceventenabled: false
+orgaenabled: false
+orga:
+    ratingValue: 2.5
+orgaratingenabled: false
+eventenabled: false
+personenabled: false
+musicalbumenabled: false
+productenabled: false
+product:
+    ratingValue: 2.5
+restaurantenabled: false
+restaurant:
+    acceptsReservations: 'yes'
+    priceRange: $
+facebookenable: false
 sharer:
     enabled: true
 ---
