@@ -23,7 +23,26 @@ display_post_summary:
     enabled: false
 feed:
     limit: 10
-    description: 'Sample Blog Description'
+    description: java.net.ar
+twitterenable: false
+twittercardoptions: summary
+articleenabled: false
+musiceventenabled: false
+orgaenabled: false
+orga:
+    ratingValue: 2.5
+orgaratingenabled: false
+eventenabled: false
+personenabled: false
+musicalbumenabled: false
+productenabled: false
+product:
+    ratingValue: 2.5
+restaurantenabled: false
+restaurant:
+    acceptsReservations: 'yes'
+    priceRange: $
+facebookenable: false
 sitemap:
     changefreq: monthly
 modular_content:
