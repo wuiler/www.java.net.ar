@@ -7,7 +7,7 @@ hero_classes: 'text-light title-h1h2 overlay-dark-gradient hero-large parallax'
 hero_image: Wallpaper-Java-Duke-01.png
 blog_url: /home
 show_sidebar: true
-show_breadcrumbs: true
+show_breadcrumbs: false
 show_pagination: true
 content:
     items:
