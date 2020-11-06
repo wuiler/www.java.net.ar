@@ -1,10 +1,10 @@
 ---
 title: Home
-media_order: 'Wallpaper-Java-Camino.png,Wallpaper-Java-Duke-01.png'
+media_order: 'Wallpaper-Java-Camino.png,Wallpaper-Java-Duke-01.png,javanetar.jpg'
 hide_git_sync_repo_link: true
 child_type: item
 hero_classes: 'text-light title-h1h2 overlay-dark-gradient hero-large parallax'
-hero_image: Wallpaper-Java-Duke-01.png
+hero_image: javanetar.jpg
 blog_url: /home
 show_sidebar: true
 show_breadcrumbs: false
@@ -53,5 +53,5 @@ modular_content:
 pagination: true
 ---
 
-# For you **Java** 25 years
+# 25 years
 ## Write once, run anywhere
