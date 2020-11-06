@@ -53,5 +53,5 @@ modular_content:
 pagination: true
 ---
 
-# 25 años
+# 25 years
 ## Write once, run anywhere

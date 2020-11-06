@@ -27,7 +27,7 @@ facebookenable: false
 position: top
 ---
 
-#### <i class="fa fa-user"></i>  Contactenos  
+#### <i class="fa fa-user"></i>  Contact us  
 wuiler @ gmail.com
 
 #### <i class="fa fa-download"></i>  Download JDK's
