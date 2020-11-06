@@ -1,5 +1,5 @@
 ---
-title: 'Swore Declaration'
+title: 'App of Swore Declaration'
 published: true
 date: '09-10-2020 20:56'
 taxonomy:
@@ -9,6 +9,10 @@ taxonomy:
         - Java
         - Application
         - Quarkus
+        - Postgres
+        - Microservices
+        - API
+        - Rest
 hide_git_sync_repo_link: false
 blog_url: /blog
 show_sidebar: true
@@ -17,6 +21,25 @@ show_pagination: true
 hide_from_post_list: false
 feed:
     limit: 10
+twitterenable: false
+twittercardoptions: summary
+articleenabled: false
+musiceventenabled: false
+orgaenabled: false
+orga:
+    ratingValue: 2.5
+orgaratingenabled: false
+eventenabled: false
+personenabled: false
+musicalbumenabled: false
+productenabled: false
+product:
+    ratingValue: 2.5
+restaurantenabled: false
+restaurant:
+    acceptsReservations: 'yes'
+    priceRange: $
+facebookenable: false
 ---
 
 It's all start with a friend that has some squashs court's and during covid-19, every people how enters to the club need to sign a swore declaration in paper with a pen.  

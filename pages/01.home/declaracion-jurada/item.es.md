@@ -1,5 +1,5 @@
 ---
-title: 'Declaración Jurada'
+title: 'App de Declaración Jurada'
 published: true
 date: '09-10-2020 20:56'
 taxonomy:
@@ -9,8 +9,12 @@ taxonomy:
         - Java
         - Application
         - Quarkus
+        - Postgres
+        - Microservices
+        - Rest
+        - APi
 hide_git_sync_repo_link: false
-dateformat: 'm/d/Y h:i a'
+dateformat: 'd-m-Y H:i'
 blog_url: /
 show_sidebar: true
 show_breadcrumbs: true
@@ -18,8 +22,9 @@ show_pagination: true
 hide_from_post_list: false
 feed:
     limit: 10
-twitterenable: false
+twitterenable: true
 twittercardoptions: summary
+twittershareimg: /home/Wallpaper-Java-Duke-01.png
 articleenabled: false
 musiceventenabled: false
 orgaenabled: false
@@ -37,6 +42,7 @@ restaurant:
     acceptsReservations: 'yes'
     priceRange: $
 facebookenable: false
+continue_link: true
 sharer:
     enabled: true
 ---
@@ -79,4 +85,4 @@ Prueba hecha para verificar la funcionalidad de la aplicación.
 
 Para obtener más información sobre Quarkus.io, visite [https://quarkus.io/](https://quarkus.io/).
 
-Puedes acceder al repositorio de github en <i class = "fa fa-github fa-2x"> </i> [https://github.com/wuiler/declaracion/](https://github.com/wuiler/declaracion /)
+Puedes acceder al repositorio de github en <i class = "fa fa-github fa-2x"> </i> [https://github.com/wuiler/declaracion/](https://github.com/wuiler/declaracion/)
