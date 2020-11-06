@@ -1,6 +1,6 @@
 ---
 title: Sidebar
-media_order: OpenJDK_logo.png
+media_order: 'OpenJDK_logo.png,adoptopenjdk.png,AmazonCorretto.png'
 published: false
 hide_git_sync_repo_link: false
 routable: false
@@ -29,10 +29,8 @@ position: top
 
  ##### <i class="fa fa-download fa-2x"></i>  Download JDK's
 
-[![https://openjdk.java.net/](OpenJDK_logo.png "OpenJDK")](https://adoptopenjdk.net/)
+[![https://openjdk.java.net/](OpenJDK_logo.png "OpenJDK")](https://openjdk.java.net/ "OpenJDK")  
 
-[![https://openjdk.java.net/](OpenJDK_logo.png "OpenJDK")](https://openjdk.java.net/ "OpenJDK")
+[![https://adoptopenjdk.net/](adoptopenjdk.png "AdoptOpenJDK")](https://adoptopenjdk.net/)  
 
-[OpenJDK](https://openjdk.java.net/)
-
-[Amazon Corretto](https://aws.amazon.com/es/corretto/)
+[![https://aws.amazon.com/es/corretto/](AmazonCorretto.png "Amazon Corretto")](https://aws.amazon.com/es/corretto/ "Amazon Corretto")  

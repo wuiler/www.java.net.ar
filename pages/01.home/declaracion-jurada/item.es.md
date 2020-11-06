@@ -50,7 +50,7 @@ sharer:
 Todo comienza con un amigo que tiene algunas canchas de squash y durante el covid-19, todas las personas que ingresan al club deben firmar una declaración jurada en papel con un bolígrafo.
 Cuál es la consecuencia de eso, tenemos que tomar bolígrafo para firmar un papel ... ¿QUÉ? ¡La idea es salir del papel y tocar cosas!
 Entonces planeamos tener un código QR en la entrada del club y cuando ingreses, con tu celular escanea eso y firma digitalmente las preguntas de la declaración jurada.
-Esa es una aplicación "simple", así que decidí desarrollarla en [Quarkus] (https://quarkus.io/).
+Esa es una aplicación "simple", así que decidí desarrollarla en [Quarkus](https://quarkus.io/).
 La base de los requisitos de la aplicación tiene:
 1.- La Entidad (las pistas de squash).
 2.- el Usuario que está accediendo al club, que debe registrarse en el mismo.
@@ -71,14 +71,14 @@ Podríamos hacer nuestras propias declaraciones juradas.
 Gestionar la Entidad, definiendo propiedades y Espacios. Los espacios son los lugares / canchas donde la gente se para.
 
 Entonces la aplicación comienza a crecer con algunas cosas interesantes.
-La tecnología de base de datos utilizada es [ElephantSQL] (https://www.elephantsql.com/) para probar [Postgres] (https://www.postgresql.org/) en la red.
+La tecnología de base de datos utilizada es [ElephantSQL](https://www.elephantsql.com/) para probar [Postgres](https://www.postgresql.org/) en la red.
 Esta es una elegante aplicación web Java con protocolo RESTEasy / JAX-RS. Dije clásico porque vengo de JavaEE con Jboss, por eso.
 
 ## Mirando mas alla
-¿Qué podría hacer? Hágalo [Reactivo] (https://quarkus.io/guides/getting-started-reactive). Quarkus aporta reactividad en todos los aspectos del ciclo de vida; en base de datos, backend y front.
+¿Qué podría hacer? Hágalo [Reactivo](https://quarkus.io/guides/getting-started-reactive). Quarkus aporta reactividad en todos los aspectos del ciclo de vida; en base de datos, backend y front.
 Utilice Panache, para el repositorio.
 Haga API primero.
-Una nueva interfaz, tal vez agregue [Svelte] (https://svelte.dev/) (está invitado a colaborar) o [https://quasar.dev/](https://quasar.dev/) (cómo dijo, 2Qute to Be Real)
+Una nueva interfaz, tal vez agregue [Svelte](https://svelte.dev/) (está invitado a colaborar) o [https://quasar.dev/](https://quasar.dev/) (cómo dijo, 2Qute to Be Real)
 Agregue soporte de correo para conectar usuarios.
 Prueba hecha para verificar la funcionalidad de la aplicación.
 ¿Qué tal si agregamos blockchain a cada declaración?
