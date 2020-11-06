@@ -15,10 +15,15 @@ taxonomy:
         - APi
 hide_git_sync_repo_link: false
 dateformat: 'd-m-Y H:i'
+hero_classes: 'text-light title-h1h2 overlay-dark-gradient hero-large parallax'
+hero_image: anas-alshanti-feXpdV001o4-unsplash.jpg
+header_image_alt_text: 'App Declaracion '
+header_image_credit: 'App Declaracion '
 blog_url: /
 show_sidebar: true
 show_breadcrumbs: true
 show_pagination: true
+header_image: '0'
 hide_from_post_list: false
 feed:
     limit: 10
@@ -47,10 +52,10 @@ sharer:
     enabled: true
 ---
 
-Todo comienza con un amigo que tiene algunas canchas de squash y durante el covid-19, todas las personas que ingresan al club deben firmar una declaración jurada en papel con un bolígrafo.
+_Todo comienza con un amigo que tiene algunas canchas de squash y durante el covid-19, todas las personas que ingresan al club deben firmar una declaración jurada en papel con un bolígrafo._
 Cuál es la consecuencia de eso, tenemos que tomar bolígrafo para firmar un papel ... ¿QUÉ? ¡La idea es salir del papel y tocar cosas!
 Entonces planeamos tener un código QR en la entrada del club y cuando ingreses, con tu celular escanea eso y firma digitalmente las preguntas de la declaración jurada.
-Esa es una aplicación "simple", así que decidí desarrollarla en [Quarkus](https://quarkus.io/).
+Esa es una **aplicación "simple"**, así que decidí desarrollarla en [Quarkus](https://quarkus.io/).
 La base de los requisitos de la aplicación tiene:
 1.- La Entidad (las pistas de squash).
 2.- el Usuario que está accediendo al club, que debe registrarse en el mismo.
@@ -85,4 +90,6 @@ Prueba hecha para verificar la funcionalidad de la aplicación.
 
 Para obtener más información sobre Quarkus.io, visite [https://quarkus.io/](https://quarkus.io/).
 
-Puedes acceder al repositorio de github en <i class = "fa fa-github fa-2x"> </i> [https://github.com/wuiler/declaracion/](https://github.com/wuiler/declaracion/)
+Puedes acceder al repositorio de github en <i class = "fa fa-github fa-2x"> </i> [https://github.com/wuiler/declaracion/](https://github.com/wuiler/declaracion/)  
+
+Foto de Unsplash: [Unsplash](https://unsplash.com/photos/feXpdV001o4)

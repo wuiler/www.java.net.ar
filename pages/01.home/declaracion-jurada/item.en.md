@@ -42,10 +42,10 @@ restaurant:
 facebookenable: false
 ---
 
-It's all start with a friend that has some squashs court's and during covid-19, every people how enters to the club need to sign a swore declaration in paper with a pen.  
+_It's all start with a friend that has some squashs court's and during covid-19, every people how enters to the club need to sign a swore declaration in paper with a pen. _   
 Whats the consequence of that, we need to take pen to sign a paper.... WHAT? The idea is to get ride off the paper and touching things!  
-So we planned to have a QR code at the entrance of the club and when you enter, with your cellphone scan that and sign digitally the questions of the swore declaration.  
-That a "simple" app, so I decided to develop on [Quarkus](https://quarkus.io/)!  
+So we planned to _have a QR_ code at the entrance of the club and when you enter, with your cellphone scan that and sign digitally the questions of the swore declaration.  
+That a **"simple" app**, so I decided to develop on [Quarkus](https://quarkus.io/)!  
 The base of the app requirements has:  
 1.- the Entity (the courts of squash). 
 2.- the User that is accessing to the club, that must register on it.  
@@ -78,6 +78,8 @@ Add mail support to connect users.
 Made Test to verify the functionality of the app.  
 How about to add blockchain to every declaration.
 
-To learn about Quarkus.io visit [https://quarkus.io/](https://quarkus.io/)!  
+To learn about Quarkus.io visit [https://quarkus.io/](https://quarkus.io/guides/)!  
 
-You could access github repository in <i class="fa fa-github fa-2x"></i>  [https://github.com/wuiler/declaracion/](https://github.com/wuiler/declaracion/)
+You could access github repository in <i class="fa fa-github fa-2x"></i>  [https://github.com/wuiler/declaracion/](https://github.com/wuiler/declaracion/)  
+
+Photo from Unsplash: [Unsplash](https://unsplash.com/photos/feXpdV001o4)
