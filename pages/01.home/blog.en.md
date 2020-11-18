@@ -1,6 +1,6 @@
 ---
 title: Home
-media_order: 'Wallpaper-Java-Camino.png,Wallpaper-Java-Duke-01.png,javanetar.jpg'
+media_order: 'Wallpaper-Java-Camino.png,Wallpaper-Java-Duke-01.png,javanetar.jpg,javanetar-bg.jpg'
 hide_git_sync_repo_link: true
 child_type: item
 hero_classes: 'text-light title-h1h2 overlay-dark-gradient hero-large parallax'
