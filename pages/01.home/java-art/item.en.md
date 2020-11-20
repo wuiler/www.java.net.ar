@@ -43,16 +43,25 @@ facebookenable: false
 continue_link: true
 ---
 
-Today its **Friday's of Wallpaper!!!**  
-We are going to relax from code and bring some love to our desktop with some Java Wallpapers.   
-I made a special site on Github for that an you can contribute to it on : https://github.com/wuiler/java-art
+Hoy es ** Viernes de Wallpaper !!! **
+Vamos a relajarnos del código y traer algo de amor a nuestro escritorio con algunos fondos de pantalla de Java.
+Hice un sitio especial en Github para eso y puedes contribuir en: https://github.com/wuiler/java-art
 
-Even though I said you were going to relax us from the code the second wallpaper I design is base on code: https://github.com/wuiler/javafx-images   
+### Primer diseño
+El primer wallpaper que diseñe es para honrar los ...
+## 25 años de Java. Feliz Cumple!!!
+![](javanetar.jpg)
 
-This is the final result of the wallpaper   
+### Segundo diseño
+Aunque dije que nos ibas a relajar del código, el segundo fondo de pantalla que diseño se basa en el código: https://github.com/wuiler/javafx-images  
+Creé este ejemplo porque en todas estas ocasiones ví demasiados fondos de pantalla con código adentro, que parecen estar en Java pero no lo están.  
+Entonces, esta es una pequeña aplicación JavaFX donde el código se puede "convertir" en el fondo de pantalla y lo es.   
+Este es el resultado final del fondo de pantalla.  
+
+## WallpaperTheCode!!  
 ![](WallpaperIsTheCode.jpg)
 
-and this is the App that create the wallpaper
+y esta es la aplicación que crea el fondo de pantalla
 ![](AppWallpaperIsTheCode.png)
 
-I hope you enjoy it !
+¡Espero que lo disfruten!
