@@ -3,6 +3,9 @@ title: Sidebar
 media_order: 'OpenJDK_logo.png,adoptopenjdk.png,AmazonCorretto.png'
 published: false
 hide_git_sync_repo_link: false
+process:
+    markdown: true
+    twig: true
 routable: false
 visible: false
 twitterenable: false
@@ -36,4 +39,6 @@ wuiler @ gmail.com
 
 [![https://adoptopenjdk.net/](adoptopenjdk.png "AdoptOpenJDK")](https://adoptopenjdk.net/)  
 
-[![https://aws.amazon.com/es/corretto/](AmazonCorretto.png "Amazon Corretto")](https://aws.amazon.com/es/corretto/ "Amazon Corretto")  
+[![https://aws.amazon.com/es/corretto/](AmazonCorretto.png "Amazon Corretto")](https://aws.amazon.com/es/corretto/ "Amazon Corretto")   
+
+
