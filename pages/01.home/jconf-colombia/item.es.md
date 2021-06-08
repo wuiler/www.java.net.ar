@@ -1,5 +1,5 @@
 ---
-title: 'Conferencia Virtual para Desarrolladores Java en Kubernetes    '
+title: 'JConf Colombia 2021'
 media_order: 7867a1_e6fc7467c7c44baa8b575f9f3cd27f86~mv2.webp
 published: true
 date: '27-10-2020 12:12'
@@ -43,12 +43,7 @@ restaurant:
 facebookenable: false
 ---
 
-Únanse a [https://www.j4k.io/](https://www.j4k.io/)    
-**Conferencia Virtual para desarrolladores Java en Kubernetes**   
+Únanse a [http://www.jconfcolombia.org/2021/index.html](http://www.jconfcolombia.org/2021/index.html)    
+La JConf Colombia es una conferencia de Tecnologías Java sin ánimo de lucro organizada por las comunidades de usuarios y desarrolladores del país. Ha sido diseñada para ayudar a usuarios, desarrolladores, emprendedores y empresas a conocer las nuevas tecnológicas relacionadas con Java, Contenedores y Cloud.
 
-**Registración** : https://whova.com/portal/registration/jkmay_202105/
-
-![https://www.j4k.io/](https://static.wixstatic.com/media/7867a1_b9571b29e16b4820a464c08eaefa11cc~mv2.png/v1/fill/w_124,h_98,al_c,q_85,usm_0.66_1.00_0.01/J4K_Bird_High_Res.webp)
-
-
-
+![http://www.jconfcolombia.org/2021/index.html](http://www.jconfcolombia.org/2021/images/logo/logo.jpg)
