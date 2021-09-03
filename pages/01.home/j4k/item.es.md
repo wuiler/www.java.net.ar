@@ -2,7 +2,7 @@
 title: 'Conferencia Virtual para Desarrolladores Java en Kubernetes    '
 media_order: 7867a1_e6fc7467c7c44baa8b575f9f3cd27f86~mv2.webp
 published: true
-date: '27-10-2020 12:12'
+date: '08-06-2021 08:08'
 taxonomy:
     category:
         - blog

@@ -2,7 +2,7 @@
 title: 'A Virtual Conference for Java Developers on Kubernetes'
 media_order: 1ef3223053e88acb4cb90bbbbae5f8a2.java-Duke.jpg
 published: true
-date: '27-10-2020 12:12'
+date: '08-06-2021 08:08'
 taxonomy:
     category:
         - blog

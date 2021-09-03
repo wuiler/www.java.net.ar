@@ -2,7 +2,7 @@
 title: 'JConf Colombia 2021'
 media_order: 7867a1_e6fc7467c7c44baa8b575f9f3cd27f86~mv2.webp
 published: true
-date: '27-10-2020 12:12'
+date: '08-06-2021 07:08'
 taxonomy:
     category:
         - blog
@@ -13,7 +13,7 @@ taxonomy:
 hide_git_sync_repo_link: false
 visible: false
 hero_classes: 'text-light title-h1h2 overlay-dark-gradient hero-large parallax'
-hero_image: 7867a1_e6fc7467c7c44baa8b575f9f3cd27f86~mv2.webp
+hero_image: 4.jpg
 blog_url: /blog
 show_sidebar: true
 show_breadcrumbs: true
@@ -44,6 +44,6 @@ facebookenable: false
 ---
 
 Únanse a [http://www.jconfcolombia.org/2021/index.html](http://www.jconfcolombia.org/2021/index.html)    
-La JConf Colombia es una conferencia de Tecnologías Java sin ánimo de lucro organizada por las comunidades de usuarios y desarrolladores del país. Ha sido diseñada para ayudar a usuarios, desarrolladores, emprendedores y empresas a conocer las nuevas tecnológicas relacionadas con Java, Contenedores y Cloud.
 
+La **JConf Colombia** es una conferencia de **Tecnologías Java** sin ánimo de lucro organizada por las comunidades de usuarios y desarrolladores del país. Ha sido diseñada para ayudar a usuarios, desarrolladores, emprendedores y empresas a conocer las nuevas tecnológicas relacionadas con Java, Contenedores y Cloud.
 ![http://www.jconfcolombia.org/2021/index.html](http://www.jconfcolombia.org/2021/images/logo/logo.jpg)

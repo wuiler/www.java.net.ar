@@ -1,8 +1,8 @@
 ---
 title: 'JConf Colombia 2021'
-media_order: 1ef3223053e88acb4cb90bbbbae5f8a2.java-Duke.jpg
+media_order: 4.jpg
 published: true
-date: '27-10-2020 12:12'
+date: '08-06-2021 07:08'
 taxonomy:
     category:
         - blog
@@ -38,6 +38,12 @@ restaurant:
     acceptsReservations: 'yes'
     priceRange: $
 facebookenable: false
+hero_image: 4.jpg
 ---
 
-JConf Colombia is a non-profit conference on Java Technologies organized by the users and the developer communities of the country. It has been designed to help users, developers, entrepreneurs and companies to learn about the new technologies related to Java, Containers and the Cloud.
+Únanse a [http://www.jconfcolombia.org/2021/index.html](http://www.jconfcolombia.org/2021/index.html)    
+
+**JConf Colombia** is a non-profit conference on **Java Technologies** organized by the users and the developer communities of the country. It has been designed to help users, developers, entrepreneurs and companies to learn about the new technologies related to Java, Containers and the Cloud.  
+
+![http://www.jconfcolombia.org/2021/index.html](http://www.jconfcolombia.org/2021/images/logo/logo.jpg)
+
