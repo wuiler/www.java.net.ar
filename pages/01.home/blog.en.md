@@ -53,5 +53,5 @@ modular_content:
 pagination: true
 ---
 
-# 25 years
+# Java Community in Cordoba.AR
 ## Write once, run anywhere

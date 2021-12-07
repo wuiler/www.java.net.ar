@@ -21,10 +21,26 @@ restaurant:
     acceptsReservations: 'yes'
     priceRange: $
 facebookenable: false
+media_order: duke-love.png
+published: true
+taxonomy:
+    category:
+        - blog
+    tag:
+        - Java
+        - Conferences
+hero_classes: 'text-light title-h1h2 overlay-dark-gradient hero-large parallax'
+blog_url: /blog
+show_sidebar: true
+show_breadcrumbs: true
+show_pagination: true
+header_image: '1'
+hide_from_post_list: false
+feed:
+    limit: 10
 ---
 
 Unanse a : https://2021.jconf.dev/
-Una de las conferencia virtual más grandes del mundo Java el 9 de diciembre de 2021.
+Una de las Conferencias Virtuales más grandes del mundo Java el 9 de diciembre de 2021.
 
-![]()
-
+![duke-love](duke-love.png "duke-love")
